@@ -2,4 +2,4 @@
 
 This simple console based digital clock is made using Vanilla CPP. 
 
-![Digital Clock](./img/ss.png)
+![Digital Clock](./img/SS.png)
